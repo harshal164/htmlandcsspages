@@ -1,0 +1,188 @@
+*{
+	font-family: calibri;
+	padding: 0px;
+	margin: 0px 0px 0px 0px;
+
+	
+}
+
+
+#logo{
+	width:80px;
+	height: 80px;
+	z-index: 3;
+	background-image:url("images/new-website-launch.png");
+	background-size: contain;
+	position: relative;
+	left: 20px;
+	top: 20px;
+	float:left;
+	
+}
+
+#logo1
+{
+	width:80px;
+	height: 80px;
+	z-index: 3;
+	background-image:url("images/National_Emblem_of_India.svg.png");
+	background-size: contain;
+	position: relative;
+background-repeat: no-repeat;
+	float:right;
+}
+#head{
+	width:1450px;
+	height: 140px;
+	background-color: #2bc56c;
+}
+
+
+#menu{
+	width: 1450px;
+	height: 30px;
+	background-color: #9ACD32 ;
+
+}
+
+#con{
+	width:1450px;
+	height: 1000px;
+	background-image: url("images/heart.jpg");
+
+}
+
+#footer{
+	width: 1450px;
+	height:50px;
+	background-color: #CD5C5C;
+
+}
+
+#menu ul{
+	display: inline-block;
+	margin: 2px 80px;
+
+}
+
+#menu ul li{
+	display: inline-block;
+	text-decoration: none;
+}
+
+
+#menu ul li a{
+	text-decoration: none;
+	color:#DC143C;
+	font-size: 130%;
+}
+
+
+#menu ul li a:hover{
+	color: #4B0082;
+
+
+}
+/*
+
+#menu ul li a.home:visited{
+	color: #FFE4E1;
+}
+
+#menu ul li a.about:visited{
+	color: #FFE4E1;
+}
+#menu ul li a.admission:visited{
+	color: #FFE4E1;
+}
+
+
+#menu ul li a.campus:visited{
+	color: #FFE4E1;
+}
+
+
+#menu ul li a.circular:visited{
+	color: #FFE4E1;
+}
+
+
+*/
+
+
+#scroll{
+	width: 250px;
+	height: 1000px;
+	background-color: #FFB6C1;
+	z-index: 2;
+	font-size: 30px;
+	overflow:scroll;
+	float: left;
+}
+
+#ad{
+	width: 250px;
+	height: 1000px;
+	background-color: #FF6347;
+
+	z-index: 2;
+	overflow:hidden;
+	float: right;
+
+	/*left: 1350px;
+	top:170px;
+	margin: 170px 0px 50px 1350px;
+*/
+}
+
+.adfit{
+	background-image:url("images/Capture.PNG");
+	width: 250px;
+	height: 500px;
+	z-index: 3;
+	background-repeat: no-repeat;
+	background-size: contain;
+	
+	
+}
+
+
+
+#joinus{
+	
+	height: 35px;
+	width: 35px;
+	float: right;
+
+border-radius: 50%;
+display: inline-block;
+margin: 12px;
+
+}
+
+.fit{
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	
+}
+
+#joinus1{
+	height: 35px;
+	width: 35px;
+	float: right;
+
+border-radius: 50%;
+display: inline-block;
+	margin: 12px;
+}
+
+#joinus2{
+	height: 35px;
+	width: 35px;
+	float: right;
+
+border-radius: 50%;
+display: inline-block;
+	margin: 12px;
+}
